@@ -1,0 +1,997 @@
+{
+  "id": 670,
+  "createdAt": "2016-07-05T14:27:12.369Z",
+  "updatedAt": "2016-07-08T07:19:03.221Z",
+  "title": "",
+  "date": "2016-07-15T00:00:00.000Z",
+  "type": "jelec",
+  "name": "quotidien",
+  "metadata": {
+    "lastPreviewRevisionId": 6747
+  },
+  "description": null,
+  "stagingAreas": [
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T13:08:33.246Z",
+      "id": 1956,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_26",
+      "label": "Zone éditoriale 26",
+      "rank": 26,
+      "lastUserUpdate": "2016-07-11T13:08:33.236Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120668
+      },
+      "contents": []
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T13:11:12.414Z",
+      "id": 1955,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_3",
+      "label": "Zone éditoriale 3",
+      "rank": 3,
+      "lastUserUpdate": "2016-07-11T13:11:12.403Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120669
+      },
+      "contents": []
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T13:11:42.692Z",
+      "id": 1954,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_25",
+      "label": "Zone éditoriale 25",
+      "rank": 25,
+      "lastUserUpdate": "2016-07-11T13:11:42.652Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120670
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T13:11:42.697Z",
+          "updatedAt": "2016-07-11T13:11:42.697Z",
+          "id": 98773,
+          "stagingAreaId": 1954,
+          "contentType": "articles",
+          "contentId": 122698,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T13:11:31.688Z",
+          "updatedAt": "2016-07-11T13:11:42.732Z",
+          "id": 98772,
+          "stagingAreaId": 1954,
+          "contentType": "articles",
+          "contentId": 122619,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T13:11:21.977Z",
+      "id": 1953,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_24",
+      "label": "Zone éditoriale 24",
+      "rank": 24,
+      "lastUserUpdate": "2016-07-11T13:11:21.939Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120671
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T13:11:21.982Z",
+          "updatedAt": "2016-07-11T13:11:21.982Z",
+          "id": 98771,
+          "stagingAreaId": 1953,
+          "contentType": "articles",
+          "contentId": 122060,
+          "legacyId": null,
+          "rank": 2,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T13:11:02.932Z",
+          "updatedAt": "2016-07-11T13:11:22.023Z",
+          "id": 98769,
+          "stagingAreaId": 1953,
+          "contentType": "articles",
+          "contentId": 122187,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T13:11:13.686Z",
+          "updatedAt": "2016-07-11T13:11:22.027Z",
+          "id": 98770,
+          "stagingAreaId": 1953,
+          "contentType": "articles",
+          "contentId": 122595,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T13:08:37.500Z",
+      "id": 1957,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_23",
+      "label": "Zone éditoriale 23",
+      "rank": 23,
+      "lastUserUpdate": "2016-07-11T13:08:37.446Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120667
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T13:06:53.709Z",
+          "updatedAt": "2016-07-11T13:08:37.537Z",
+          "id": 98767,
+          "stagingAreaId": 1957,
+          "contentType": "articles",
+          "contentId": 122540,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T13:08:33.375Z",
+          "updatedAt": "2016-07-11T13:08:37.546Z",
+          "id": 98768,
+          "stagingAreaId": 1957,
+          "contentType": "articles",
+          "contentId": 122556,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T13:08:33.246Z",
+      "id": 1956,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_22",
+      "label": "Zone éditoriale 22",
+      "rank": 22,
+      "lastUserUpdate": "2016-07-11T13:08:33.236Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120668
+      },
+      "contents": []
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T13:06:53.209Z",
+      "id": 1955,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_21",
+      "label": "Zone éditoriale 21",
+      "rank": 21,
+      "lastUserUpdate": "2016-07-11T13:06:53.184Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120669
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T13:06:14.491Z",
+          "updatedAt": "2016-07-11T13:06:53.231Z",
+          "id": 98766,
+          "stagingAreaId": 1955,
+          "contentType": "articles",
+          "contentId": 121990,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T13:06:02.333Z",
+          "updatedAt": "2016-07-11T13:06:53.234Z",
+          "id": 98765,
+          "stagingAreaId": 1955,
+          "contentType": "articles",
+          "contentId": 122490,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T13:06:14.306Z",
+      "id": 1954,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_20",
+      "label": "Zone éditoriale 20",
+      "rank": 20,
+      "lastUserUpdate": "2016-07-11T13:06:14.252Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120670
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T13:05:21.221Z",
+          "updatedAt": "2016-07-11T13:06:14.360Z",
+          "id": 98762,
+          "stagingAreaId": 1954,
+          "contentType": "articles",
+          "contentId": 122289,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T13:05:38.330Z",
+          "updatedAt": "2016-07-11T13:06:14.364Z",
+          "id": 98763,
+          "stagingAreaId": 1954,
+          "contentType": "articles",
+          "contentId": 122287,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T13:05:46.901Z",
+          "updatedAt": "2016-07-11T13:06:14.371Z",
+          "id": 98764,
+          "stagingAreaId": 1954,
+          "contentType": "articles",
+          "contentId": 122481,
+          "legacyId": null,
+          "rank": 2,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T12:58:47.976Z",
+      "id": 1953,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_19",
+      "label": "Zone éditoriale 9",
+      "rank": 19,
+      "lastUserUpdate": "2016-07-11T12:58:47.925Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120671
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T12:58:47.981Z",
+          "updatedAt": "2016-07-11T12:58:47.981Z",
+          "id": 98761,
+          "stagingAreaId": 1953,
+          "contentType": "articles",
+          "contentId": 122538,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T12:58:33.038Z",
+          "updatedAt": "2016-07-11T12:58:48.009Z",
+          "id": 98760,
+          "stagingAreaId": 1953,
+          "contentType": "articles",
+          "contentId": 122723,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T12:52:45.591Z",
+      "id": 1957,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_18",
+      "label": "Zone éditoriale 18",
+      "rank": 18,
+      "lastUserUpdate": "2016-07-11T12:52:45.583Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120667
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T12:52:45.594Z",
+          "updatedAt": "2016-07-11T12:52:45.594Z",
+          "id": 98759,
+          "stagingAreaId": 1957,
+          "contentType": "articles",
+          "contentId": 121665,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T12:52:45.584Z",
+      "id": 1956,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_17",
+      "label": "Zone éditoriale 17",
+      "rank": 17,
+      "lastUserUpdate": "2016-07-11T12:52:45.574Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120668
+      },
+      "contents": []
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T12:52:22.782Z",
+      "id": 1955,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_16",
+      "label": "Zone éditoriale 16",
+      "rank": 16,
+      "lastUserUpdate": "2016-07-11T12:52:22.773Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120669
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T12:52:22.785Z",
+          "updatedAt": "2016-07-11T12:52:22.785Z",
+          "id": 98758,
+          "stagingAreaId": 1955,
+          "contentType": "articles",
+          "contentId": 116920,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T12:50:24.262Z",
+      "id": 1954,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_15",
+      "label": "Zone éditoriale 15",
+      "rank": 15,
+      "lastUserUpdate": "2016-07-11T12:50:24.206Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120670
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T12:49:24.425Z",
+          "updatedAt": "2016-07-11T12:50:24.295Z",
+          "id": 98755,
+          "stagingAreaId": 1954,
+          "contentType": "articles",
+          "contentId": 122738,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T12:49:41.883Z",
+          "updatedAt": "2016-07-11T12:50:24.314Z",
+          "id": 98756,
+          "stagingAreaId": 1954,
+          "contentType": "articles",
+          "contentId": 122570,
+          "legacyId": null,
+          "rank": 2,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T12:49:13.334Z",
+          "updatedAt": "2016-07-11T12:50:24.303Z",
+          "id": 98754,
+          "stagingAreaId": 1954,
+          "contentType": "articles",
+          "contentId": 122714,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T12:50:24.262Z",
+      "id": 1954,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_14",
+      "label": "Zone éditoriale 14",
+      "rank": 14,
+      "lastUserUpdate": "2016-07-11T12:50:24.206Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120670
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T12:50:24.266Z",
+          "updatedAt": "2016-07-11T12:50:24.266Z",
+          "id": 98757,
+          "stagingAreaId": 1954,
+          "contentType": "articles",
+          "contentId": 122666,
+          "legacyId": null,
+          "rank": 3,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T12:49:23.936Z",
+      "id": 1953,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_13",
+      "label": "Zone éditoriale 13",
+      "rank": 13,
+      "lastUserUpdate": "2016-07-11T12:49:23.901Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120671
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T12:47:42.519Z",
+          "updatedAt": "2016-07-11T12:49:23.979Z",
+          "id": 98750,
+          "stagingAreaId": 1953,
+          "contentType": "articles",
+          "contentId": 122682,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T12:48:10.530Z",
+          "updatedAt": "2016-07-11T12:49:23.975Z",
+          "id": 98752,
+          "stagingAreaId": 1953,
+          "contentType": "articles",
+          "contentId": 122754,
+          "legacyId": null,
+          "rank": 2,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T12:47:58.634Z",
+          "updatedAt": "2016-07-11T12:49:23.982Z",
+          "id": 98751,
+          "stagingAreaId": 1953,
+          "contentType": "articles",
+          "contentId": 122683,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T12:48:56.988Z",
+          "updatedAt": "2016-07-11T12:49:23.977Z",
+          "id": 98753,
+          "stagingAreaId": 1953,
+          "contentType": "articles",
+          "contentId": 122745,
+          "legacyId": null,
+          "rank": 3,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T11:55:42.790Z",
+      "id": 1957,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_12",
+      "label": "Zone éditoriale 12",
+      "rank": 11,
+      "lastUserUpdate": "2016-07-11T11:55:42.747Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120667
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T11:55:20.637Z",
+          "updatedAt": "2016-07-11T11:55:42.821Z",
+          "id": 98748,
+          "stagingAreaId": 1957,
+          "contentType": "articles",
+          "contentId": 122593,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T11:55:42.796Z",
+          "updatedAt": "2016-07-11T11:55:42.796Z",
+          "id": 98749,
+          "stagingAreaId": 1957,
+          "contentType": "articles",
+          "contentId": 122702,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T11:55:42.860Z",
+      "id": 1956,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_11",
+      "label": "Zone éditoriale 11",
+      "rank": 11,
+      "lastUserUpdate": "2016-07-11T11:55:42.765Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120668
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T11:54:03.450Z",
+          "updatedAt": "2016-07-11T11:55:42.953Z",
+          "id": 98745,
+          "stagingAreaId": 1956,
+          "contentType": "articles",
+          "contentId": 122729,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T11:54:30.812Z",
+          "updatedAt": "2016-07-11T11:55:42.963Z",
+          "id": 98746,
+          "stagingAreaId": 1956,
+          "contentType": "articles",
+          "contentId": 122701,
+          "legacyId": null,
+          "rank": 2,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T11:53:49.905Z",
+          "updatedAt": "2016-07-11T11:55:42.924Z",
+          "id": 98744,
+          "stagingAreaId": 1956,
+          "contentType": "articles",
+          "contentId": 122730,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T11:54:56.327Z",
+          "updatedAt": "2016-07-11T11:55:42.974Z",
+          "id": 98747,
+          "stagingAreaId": 1956,
+          "contentType": "articles",
+          "contentId": 122543,
+          "legacyId": null,
+          "rank": 3,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T11:54:30.330Z",
+      "id": 1955,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_10",
+      "label": "Zone éditoriale 10",
+      "rank": 10,
+      "lastUserUpdate": "2016-07-11T11:54:30.259Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120669
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T11:53:19.345Z",
+          "updatedAt": "2016-07-11T11:54:30.373Z",
+          "id": 98742,
+          "stagingAreaId": 1955,
+          "contentType": "articles",
+          "contentId": 122746,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T11:53:00.558Z",
+          "updatedAt": "2016-07-11T11:54:30.382Z",
+          "id": 98741,
+          "stagingAreaId": 1955,
+          "contentType": "articles",
+          "contentId": 122739,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T11:53:29.110Z",
+          "updatedAt": "2016-07-11T11:54:30.387Z",
+          "id": 98743,
+          "stagingAreaId": 1955,
+          "contentType": "articles",
+          "contentId": 122664,
+          "legacyId": null,
+          "rank": 2,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T11:53:18.913Z",
+      "id": 1954,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_9",
+      "label": "Zone éditoriale 9",
+      "rank": 9,
+      "lastUserUpdate": "2016-07-11T11:53:18.815Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120670
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T11:52:35.037Z",
+          "updatedAt": "2016-07-11T11:53:18.970Z",
+          "id": 98739,
+          "stagingAreaId": 1954,
+          "contentType": "articles",
+          "contentId": 122468,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T11:52:23.373Z",
+          "updatedAt": "2016-07-11T11:53:18.963Z",
+          "id": 98738,
+          "stagingAreaId": 1954,
+          "contentType": "articles",
+          "contentId": 120754,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T11:53:18.913Z",
+      "id": 1954,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_8",
+      "label": "Zone éditoriale 8",
+      "rank": 8,
+      "lastUserUpdate": "2016-07-11T11:53:18.815Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120670
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T11:52:46.383Z",
+          "updatedAt": "2016-07-11T11:53:18.950Z",
+          "id": 98740,
+          "stagingAreaId": 1954,
+          "contentType": "articles",
+          "contentId": 122694,
+          "legacyId": null,
+          "rank": 2,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T11:52:08.023Z",
+      "id": 1953,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_7",
+      "label": "Zone éditoriale 7",
+      "rank": 7,
+      "lastUserUpdate": "2016-07-11T11:52:07.973Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120671
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T11:52:08.027Z",
+          "updatedAt": "2016-07-11T11:52:08.027Z",
+          "id": 98737,
+          "stagingAreaId": 1953,
+          "contentType": "articles",
+          "contentId": 122700,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T11:51:57.096Z",
+          "updatedAt": "2016-07-11T11:52:08.056Z",
+          "id": 98736,
+          "stagingAreaId": 1953,
+          "contentType": "articles",
+          "contentId": 122552,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T09:55:59.324Z",
+      "id": 1957,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_6",
+      "label": "Zone éditoriale 6",
+      "rank": 6,
+      "lastUserUpdate": "2016-07-11T09:55:59.316Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120667
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T09:55:59.327Z",
+          "updatedAt": "2016-07-11T09:55:59.327Z",
+          "id": 98734,
+          "stagingAreaId": 1957,
+          "contentType": "articles",
+          "contentId": 122437,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T09:55:59.327Z",
+          "updatedAt": "2016-07-11T09:55:59.327Z",
+          "id": 98733,
+          "stagingAreaId": 1957,
+          "contentType": "articles",
+          "contentId": 122713,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T09:55:58.931Z",
+      "id": 1956,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_5",
+      "label": "Zone éditoriale 5",
+      "rank": 5,
+      "lastUserUpdate": "2016-07-11T09:55:58.858Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120668
+      },
+      "contents": []
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T09:55:44.574Z",
+      "id": 1955,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_4",
+      "label": "Zone éditoriale 4",
+      "rank": 4,
+      "lastUserUpdate": "2016-07-11T09:55:44.485Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120669
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T09:52:15.470Z",
+          "updatedAt": "2016-07-11T09:55:44.638Z",
+          "id": 98728,
+          "stagingAreaId": 1955,
+          "contentType": "articles",
+          "contentId": 122691,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T09:52:31.589Z",
+          "updatedAt": "2016-07-11T09:55:44.646Z",
+          "id": 98729,
+          "stagingAreaId": 1955,
+          "contentType": "articles",
+          "contentId": 122722,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T09:53:03.198Z",
+          "updatedAt": "2016-07-11T09:55:44.625Z",
+          "id": 98730,
+          "stagingAreaId": 1955,
+          "contentType": "articles",
+          "contentId": 122734,
+          "legacyId": null,
+          "rank": 2,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T09:51:39.615Z",
+      "id": 1954,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_3",
+      "label": "Zone éditoriale 3",
+      "rank": 3,
+      "lastUserUpdate": "2016-07-11T09:51:39.584Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120670
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T09:51:24.792Z",
+          "updatedAt": "2016-07-11T09:51:39.646Z",
+          "id": 98726,
+          "stagingAreaId": 1954,
+          "contentType": "articles",
+          "contentId": 122534,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T09:51:39.619Z",
+          "updatedAt": "2016-07-11T09:51:39.619Z",
+          "id": 98727,
+          "stagingAreaId": 1954,
+          "contentType": "articles",
+          "contentId": 122507,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T08:37:03.144Z",
+      "id": 1953,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_2",
+      "label": "Zone éditoriale 2",
+      "rank": 2,
+      "lastUserUpdate": "2016-07-11T08:37:03.102Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120671
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T08:37:03.148Z",
+          "updatedAt": "2016-07-11T08:37:03.148Z",
+          "id": 98725,
+          "stagingAreaId": 1953,
+          "contentType": "articles",
+          "contentId": 122696,
+          "legacyId": null,
+          "rank": 1,
+          "metadata": null
+        },
+        {
+          "createdAt": "2016-07-11T08:36:16.789Z",
+          "updatedAt": "2016-07-11T08:37:03.170Z",
+          "id": 98724,
+          "stagingAreaId": 1953,
+          "contentType": "articles",
+          "contentId": 122685,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "createdAt": "2016-07-05T14:27:12.380Z",
+      "updatedAt": "2016-07-11T08:37:03.144Z",
+      "id": 1953,
+      "parentType": "publications",
+      "parentId": 670,
+      "legacyId": null,
+      "type": "zone_edito_1",
+      "label": "Zone éditoriale 1",
+      "rank": 1,
+      "lastUserUpdate": "2016-07-11T08:37:03.102Z",
+      "metadata": {
+        "lastPreviewRevisionId": 120671
+      },
+      "contents": [
+        {
+          "createdAt": "2016-07-11T10:04:42.827Z",
+          "updatedAt": "2016-07-11T10:04:42.827Z",
+          "id": 98735,
+          "stagingAreaId": 1953,
+          "contentType": "articles",
+          "contentId": 122634,
+          "legacyId": null,
+          "rank": 0,
+          "metadata": null
+        }
+      ]
+    }
+  ]
+}
