@@ -3,6 +3,8 @@ const fs = require('fs');
 const async = require('async');
 const path = require('path');
 const _ = require('lodash');
+const nodesFormatter = require('./formatters/nodes');
+const articleFormatter = require('./formatters/article');
 
 const PUBLICATION_FILE = './mock/publication.json';
 const ARTICLES_DIR = './mock/articles';
@@ -37,24 +39,26 @@ const getArticleContent = (retry, articleId, callback) => request({
   // console.log(`${articleId} with ${type} requested: ${res.statusCode}`);
   if (err || res.statusCode !== 200) return callback(new Error(err || `${articleId} not found`));
   if (! article.data[0] && ! retry) return getArticleContent(true, articleId, callback);
-  callback(null, article);
+  callback(null, articleFormatter(article.data[0]));
 });
 
+const formatArticleContents = (articles, callback) => callback(null, articles.map(nodesFormatter));
 
 const createArticlesFiles = (articles, callback) => async.map(articles, createArticleFile, callback);
 
 const createArticleFile = (article, callback) => {
-  if (article.data[0]) return fs.writeFile(getFilename(article), JSON.stringify(article), callback);
-  callback(null);
+  if (! article) return callback(null);
+  fs.writeFile(getFilename(article), JSON.stringify(article), callback);
 };
 
-const getFilename = (article) => path.resolve(__dirname, ARTICLES_DIR, `${article.data[0].article_id}.json`);
+const getFilename = (article) => path.resolve(__dirname, ARTICLES_DIR, `${article.article_id}.json`);
 
 async.waterfall([
   async.apply(fs.readFile, PUBLICATION_FILE),
   formatPublication,
   getArticles,
   getArticlesContents,
+  formatArticleContents,
   createArticlesFiles
 ], (err, files) => {
   console.log(err || 'success');
